@@ -8,6 +8,26 @@ https://storybook.js.org/basics/introduction/
 
 React Storybook should be a proper solution to the problem of developing React components in isolation and passing props based on ENV. Components created in this development environment can be bundled as modules and linked after completion.
 
+## Quickstart
+
+1 - Pull down repo locally and navigate to new folder
+
+2 - Install Storybook CLI with `npm i -g @storybook/cli`
+
+2 - Run `npm install`
+
+3 - Run Storybook with `npm run storybook`
+
+Altogether: 
+
+```
+git clone https://github.com/storybooks/storybook.git
+cd storybook
+npm i -g @storybook/cli
+npm install
+npm run storybook
+```
+
 ## How to set up a Storybook
 
 1 - Intall React and Storybook:
