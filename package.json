@@ -1,0 +1,21 @@
+{
+  "name": "storybook",
+  "version": "1.0.0",
+  "description": "\"React Storybook is a UI development environment for your React components. With it, you can visualize different states of your UI components and develop them interactively.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  },
+  "devDependencies": {
+    "@storybook/react": "^3.2.8"
+  },
+  "scripts": {
+    "storybook": "start-storybook -p 9001 -c .storybook"
+  }
+}
