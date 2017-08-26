@@ -2,8 +2,9 @@
 
 ## Introduction
 
-"React Storybook is a UI development environment for your React components. With it, you can visualize different states of your UI components and develop them interactively. [It] runs outside of your app. So you can develop UI components in isolation without worrying about app specific dependencies and requirements."
-- https://storybook.js.org/basics/introduction/
+> "React Storybook is a UI development environment for your React components. With it, you can visualize different states of your UI components and develop them interactively. [It] runs outside of your app. So you can develop UI components in isolation without worrying about app specific dependencies and requirements."
+
+https://storybook.js.org/basics/introduction/
 
 React Storybook should be a proper solution to the problem of developing React components in isolation and passing props based on ENV. Components created in this development environment can be bundled as modules and linked after completion.
 
@@ -36,7 +37,7 @@ npm run storybook
 
 Notes: 
 
-The official guide for using Storybook with React can be found here (this requires customization):
+The official guide for using Storybook with React can be found here:
 ```
 https://storybook.js.org/basics/guide-react/ 
 ```
